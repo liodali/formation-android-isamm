@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="user">\tusername</string>
+    <string name="next_bt">Next</string>
+</resources>
